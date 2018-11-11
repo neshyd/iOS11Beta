@@ -1,7 +1,5 @@
-### Github Tutorial
+### iOS Beta Profile Host
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
 
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
-
-Append ?raw=true to any file URL on Github to get the direct link.
+This repo only serves the purpose on hosting various iOS/tvOS beta profiles from the Apple Developer Portal. 
+Always install beta software on non-main devices for testing purposes only! I'm not responsible for any mishaps or weirdness that happens while on the beta train. **Always make an iCloud/iTunes backup prior to updating!!**
